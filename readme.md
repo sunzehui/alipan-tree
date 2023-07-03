@@ -8,5 +8,5 @@ https://greasyfork.org/zh-CN/scripts/446752-%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98
 ![show.png](show.png)
 
 ## 感谢
-https://github.com/mar10/fancytree
-https://github.com/lisonge/vite-plugin-monkey
+- https://github.com/mar10/fancytree
+- https://github.com/lisonge/vite-plugin-monkey
